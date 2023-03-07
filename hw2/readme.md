@@ -1,6 +1,7 @@
-**HomeWork2**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+**HomeWork2**
 
 - 1.В файле содержится строка с исходными данными в такой форме: 
 {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
