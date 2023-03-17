@@ -12,7 +12,7 @@ public class Task41 {
 
         ll.add("begin");
         for (int i = 0; i < 10; i++) {
-            ll.add(rnd.nextInt(0, 11));
+           ll.add(rnd.nextInt(0, 11));
         }
         ll.add("end");
         System.out.println(ll);
